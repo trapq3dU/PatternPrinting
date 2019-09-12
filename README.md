@@ -1,6 +1,7 @@
 # Pattern_1
 
 It will print a pattern like
+
 x
 x
 
