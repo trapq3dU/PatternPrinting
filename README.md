@@ -22,4 +22,4 @@ oxox
 
 ......
 
-Check Screenshot for more clearity
+Check Screenshot (Pattern_1.png) for more clearity
